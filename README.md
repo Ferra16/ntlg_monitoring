@@ -31,25 +31,43 @@ monitor_service_down (0 active)
 
 
 2. Перечислите количество dashboards в Grafana, для какого ПО они?
+3. 
 Docker Containers - docker
+
 Docker Host - system
+
 Monitor Services - prometheus
+
 Nginx - nginx
 
 3. Сделайте скриншот работающего dashboards docker containers grafana, перечислите метрики, которые там есть
+
 CPU-load
+
 CPU-cores
+
 Memory load
+
 USer memory
+
 Storage load
+
 Used storage
+
 Running containers
+
 System load
+
 I/O usage
+
 Container CPU usage
+
 Container memory usage
+
 Container cached memory usage
+
 Container network input
+
 Container nentwork ouput
 
 
