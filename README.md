@@ -4,18 +4,31 @@
 1. Перечислите алерты, которые настроены в Prometheus alerts
 
 /etc/prometheus/alert.rules > containers
+
 inactivefiring (1)
+
 jenkins_down (1 active)
+
 jenkins_high_cpu (0 active)
+
 jenkins_high_memory (0 active)
+
 /etc/prometheus/alert.rules > host
+
 inactive
+
 high_cpu_load (0 active)
+
 high_memory_load (0 active)
+
 high_storage_load (0 active)
+
 /etc/prometheus/alert.rules > targets
+
 inactive
+
 monitor_service_down (0 active)
+
 
 2. Перечислите количество dashboards в Grafana, для какого ПО они?
 Docker Containers - docker
